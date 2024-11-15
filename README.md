@@ -19,9 +19,6 @@ Welcome to my GitHub profile!
 - [Credit Card Fraud Detection](https://github.com/yourusername/credit-card-fraud): Developed a classification model for anomaly detection.  
 - [Predictive Analysis of Indian Planning](https://github.com/yourusername/indian-planning-predictive-analysis): Data extraction and forecasting using government reports.
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🤝 Let’s Connect  
 - LinkedIn: https://www.linkedin.com/in/ayushi-dubey-7959671bb/
