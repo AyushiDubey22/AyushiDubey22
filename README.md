@@ -14,9 +14,9 @@ Welcome to my GitHub profile!
 - **Databases**: MySQL, MongoDB, Cassandra  
 
 ## 📂 Notable Projects  
-- [Titanic Survival Analysis](https://github.com/yourusername/titanic-analysis): Analyzed survival patterns using machine learning models.  
+- [[Titanic Survival Analysis](https://github.com/yourusername/titanic-analysis)](https://github.com/AyushiDubey22/Credit-card-): Analyzed survival patterns using machine learning models.  
 - [Sales Prediction](https://github.com/yourusername/sales-prediction): Built a regression model to forecast future sales.  
-- [Credit Card Fraud Detection](https://github.com/yourusername/credit-card-fraud): Developed a classification model for anomaly detection.  
+- [[Credit Card Fraud Detection](https://github.com/yourusername/credit-card-fraud)](https://github.com/AyushiDubey22/Credit-card-): Developed a classification model for anomaly detection.  
 - [Predictive Analysis of Indian Planning](https://github.com/yourusername/indian-planning-predictive-analysis): Data extraction and forecasting using government reports.
 
 
