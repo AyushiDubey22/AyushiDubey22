@@ -25,5 +25,5 @@ Welcome to my GitHub profile!
 - Email: ayushidubey72@gmail.com
   
 ### ⭐ Fun Fact  
-**Artificial Intelligence**, **Macine Learning** and **Big Data** are two fields that fascinate me the most!  
+**Artificial Intelligence**, **Macine Learning** and **Big Data** are the fields that fascinate me the most!  
 
