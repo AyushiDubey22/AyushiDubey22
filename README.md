@@ -14,8 +14,8 @@ Welcome to my GitHub profile!
 - **Databases**: MySQL, MongoDB
 
 ## 📂 Notable Projects  
+- [[Telecom Customer Churn Prediction](https://github.com/AyushiDubey22/Telecom-Customer-Churn-Prediction-/tree/main)]:Predicted customer churn in the telecom industry using machine learning models to identify at-risk customers and key churn drivers
 - [[Titanic Survival Analysis](https://github.com/AyushiDubey22/Titanic-Survival-Analysis/blob/main/Untitled5.ipynb)]: Analyzed survival patterns using machine learning models.  
-- [[Sales Prediction](https://github.com/AyushiDubey22/Sales-Prediction/blob/main/SalesPrediction.ipynb)]: Built a regression model to forecast future sales.  
 - [[Credit Card Fraud Detection](https://github.com/AyushiDubey22/Credit-card-)]: Developed a classification model for anomaly detection.  
 - [Predictive Analysis of Indian Planning]: Data extraction and forecasting using government reports.
 
@@ -25,5 +25,5 @@ Welcome to my GitHub profile!
 - Email: ayushidubey72@gmail.com
   
 ### ⭐ Fun Fact  
-**Artificial Intelligence**, **Macine Learning** and **Big Data** are the fields that fascinate me the most!  
+**Artificial Intelligence**,**Deep Learning**, **Macine Learning**, **SQL** and **Big Data** are the fields that fascinate me the most!  
 
