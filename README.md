@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 
 ## 📂 Notable Projects  
 - [[Telecom Customer Churn Prediction](https://github.com/AyushiDubey22/Telecom-Customer-Churn-Prediction-/tree/main)]:Predicted customer churn in the telecom industry using machine learning models to identify at-risk customers and key churn drivers
+- [[Customer Segmentation Case Study](https://github.com/AyushiDubey22/McDonalds-Case-Study/tree/main)]: Did Market Analysis on McDonald's case Study data. 
 - [[Titanic Survival Analysis](https://github.com/AyushiDubey22/Titanic-Survival-Analysis/blob/main/Untitled5.ipynb)]: Analyzed survival patterns using machine learning models.  
 - [[Credit Card Fraud Detection](https://github.com/AyushiDubey22/Credit-card-)]: Developed a classification model for anomaly detection.  
 - [Predictive Analysis of Indian Planning]: Data extraction and forecasting using government reports.
