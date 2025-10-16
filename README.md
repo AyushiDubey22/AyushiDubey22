@@ -4,13 +4,13 @@ Welcome to my GitHub profile!
 
 ## About Me  
 - Aspiring Data Scientist with a keen interest in Machine Learning, Data Analysis, and Artificial Intelligence.  
-- Currently learning **PL/SQL**, **Machine Learning**,**MongoDB**,**EDA** and **Advanced Data Science Techniques**.  
+- Currently learning **LLM**, **Agentic AI**, **GenAI**, **PL/SQL**,**MongoDB**,**EDA** and **Advanced Data Science Techniques**.  
 - Exploring research projects that apply **predictive analytics**, **AI/ML**, and **data mining** for real-world solutions.  
 - Passionate about creating impactful solutions using data and coding.  
 
 ##  Skills & Technologies  
 - **Programming Languages**: Python, SQL, MongoDB,  Prolog  
-- **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn , langgraph, langchain
 - **Databases**: MySQL, MongoDB
 
 ##  Notable Projects  
